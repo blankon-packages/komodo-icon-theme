@@ -1,0 +1,33 @@
+0.8
+===
+* New applications: adobe air, deadbeef, devede, devhelp, dia, facebook, flickr, frostwire, glade, gnucash, gnumeric, homebank, jdownloader, kupfer, netbeans, openbravo, openerp, openshot, phatch, picasa, qtcreator, radiotray, soundconverter, terminator, vim, wordpress, wxbanker, xbmc, xournal
+* Reworked icons for gwibber, firefox, chromium and google chrome
+* A whole set of emblems and weather icons
+* Some new monochromatic icons for applications
+* Some fixes for missing links and panels icons (especially with dark theme)
+* More different sizes for existing icons
+
+0.7
+===
+* New applications: desktop effects, easytag, emacs, emesene, flashplayer, gnome panel launcher, hardinfo, icedove, iceweasel, im-chooser, keepassx, last.fm, radio, mitter, monodevelop, openoffice template, openoffice printeradmin, pidgin, pino, pithos, podcast, firewall, sound juicer, truecrypt, wikipedia, wireshark, youtube
+* New 16x16 icons for common applications
+* A wide bunch of common mimetypes in all sizes
+* New icons for treeviews, menu and toolbars in brasero, rhythmbox, banshee, synaptic and software center
+* New monochrome status icons: dropbox, file copy, printer, getting things gnome, root privilege, pino.
+* New logos for Archlinux and Frugalware.
+* Some fixes for missing links and dark status icons
+* Skype icons for Dockmanager
+* Themes for Emesene
+
+0.6
+===
+* New icons for applications: audacity, audacious, deluge, dropbox, eclipse, f-spot, google chrome, google earth, gmail, gtk-recordmydesktop, guayadeque, leafpad, midori, minitube, minitunes, pidgin, shotwell, skype, spotify, shutter, ubuntu-tweak, ubuntuone, wine, wine configuration, wine uninstaller, wine folder, zeitgeist.
+* New icons for system preferences and administration: gparted, jockey, logviewer, network, sound, windows and shortcuts preferences, emerald, menu editor, gnome panel, opera widget manager, ATI catalyst control center.
+* New icons for games: all standard Gnome games, defcon, gbrainy, openttd, world of goo
+* New icons for devices: keyboard, scanner, floppy, pda.
+* New bunch of monochromatic distributor logos for gnome main menu.
+* Some fixes for dark status icons and wrong or missing icons names.
+
+0.5
+===
+* First public release
