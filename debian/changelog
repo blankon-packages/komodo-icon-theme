@@ -1,3 +1,9 @@
+blankon-icon-theme (0.1.2) pattimura; urgency=low
+
+  * added distributor-loo-blankon.svg.
+  
+ -- aftian <aftian@di.blankon.in>  Sun, 03 Apr 2011 00:56:03 +0700
+
 blankon-icon-theme (0.1.1) pattimura; urgency=low
 
   * edit index.theme
