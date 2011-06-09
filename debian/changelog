@@ -1,3 +1,9 @@
+blankon-icon-theme (0.1.3) pattimura; urgency=low
+
+  * update logo ubuntu-tweak.svg
+
+ -- aftian <aftian@di.blankon.in>  Thu, 09 Jun 2011 22:53:31 +0700
+
 blankon-icon-theme (0.1.2) pattimura; urgency=low
 
   * added distributor-loo-blankon.svg.
