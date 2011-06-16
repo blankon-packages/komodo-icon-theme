@@ -1,3 +1,9 @@
+blankon-icon-theme (0.1.4) pattimura; urgency=low
+
+  * Fix update libreoffice logo from princeofgiri
+
+ -- aftian <aftian@di.blankon.in>  Thu, 16 Jun 2011 17:04:11 +0700
+
 blankon-icon-theme (0.1.3) pattimura; urgency=low
 
   * update logo ubuntu-tweak.svg
