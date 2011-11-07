@@ -1,3 +1,9 @@
+blankon-icon-theme (0.1.7) rote; urgency=low
+
+  * rebuild for rote
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 07 Nov 2011 17:12:55 +0700
+
 blankon-icon-theme (0.1.6) pattimura; urgency=low
 
   * Update power icon from buitenzorg812
