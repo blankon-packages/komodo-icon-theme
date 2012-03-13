@@ -1,3 +1,10 @@
+komodo-icon-theme (0.1.8) rote; urgency=low
+
+  * komodo icon for rote
+    - include libgtk-3.0
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 13 Mar 2012 16:11:26 +0700
+
 blankon-icon-theme (0.1.7) rote; urgency=low
 
   * rebuild for rote
