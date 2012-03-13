@@ -8,7 +8,7 @@ Vcs-Bzr: http://dev.blankonlinux.or.id/bzr/rote/komodo-icon-theme
 
 Package: komodo-icon-theme
 Architecture: all
-Depends: libgtk3.0-0
+Depends: libgtk-3-0
 Description: Komodo Icon Theme for BlankOn Linux
  This icon theme provides a scalable group of icons to be used by GTK+ 3.x
  applications like GNOME 3, this distributed for BlankOn 8 Rote.

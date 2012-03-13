@@ -1,172 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="96"
-   height="96"
-   id="svg2982"
-   version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="emblem-urgent.svg">
-  <defs
-     id="defs2984">
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter6279-2">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.8"
-         id="feGaussianBlur6281-1" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#ButtonColor-6"
-       id="linearGradient9181"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-7.8515622e-6)"
-       x1="48"
-       y1="1052.3622"
-       x2="48"
-       y2="902.36218" />
-    <linearGradient
-       x1="10.31979"
-       y1="21"
-       x2="10.31979"
-       y2="0.99929649"
-       id="ButtonColor-6"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         id="stop3189-4"
-         style="stop-color:#c8c8c8;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3191-0-3"
-         style="stop-color:#e6e6e6;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath3723">
-      <path
-         d="m -100,-80 0,96 96,0 0,-96 -96,0 z m 48,16 c 17.673112,0 32,14.326888 32,32 0,17.673112 -14.326888,32 -32,32 -17.673112,0 -32,-14.326888 -32,-32 0,-17.673112 14.326888,-32 32,-32 z m 0,8 c -13.254832,0 -24,10.745166 -24,24 0,13.254832 10.745168,24 24,24 13.254836,0 24,-10.745168 24,-24 0,-13.254834 -10.745164,-24 -24,-24 z m -0.25,4 0.5,0 c 2.063936,0 3.75,1.686066 3.75,3.75 l 0,12.25 10,0 c 2.216,0 4,1.784 4,4 0,2.216 -1.784,4 -4,4 l -13.75,0 -0.25,0 c -0.0869,0 -0.16451,0.0054 -0.25,0 -2.063936,0 -3.75,-1.686064 -3.75,-3.75 l 0,-16.5 c 0,-2.063934 1.686064,-3.75 3.75,-3.75 z"
-         inkscape:connector-curvature="0"
-         id="path3725"
-         style="opacity:0.3;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3727">
-      <feGaussianBlur
-         id="feGaussianBlur3729"
-         stdDeviation="0.96" />
-    </filter>
-    <linearGradient
-       x1="3"
-       y1="11"
-       x2="19"
-       y2="11"
-       id="linearGradient3728"
-       xlink:href="#linearGradient3655"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,4,-4,0,92,-76)" />
-    <linearGradient
-       id="linearGradient3655">
-      <stop
-         id="stop3657"
-         style="stop-color:#ad0707;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3659"
-         style="stop-color:#f75535;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="36.39115"
-     inkscape:cy="42.877139"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="725"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata2987">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-956.36218)">
-    <g
-       id="g6878">
-      <rect
-         transform="translate(0,-7.8515622e-6)"
-         y="964.36218"
-         x="8"
-         height="80"
-         width="80"
-         id="rect9283"
-         style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter6279-2)"
-         rx="5"
-         ry="5" />
-      <rect
-         ry="5"
-         rx="5"
-         style="fill:url(#linearGradient9181);fill-opacity:1;stroke:none"
-         id="rect9285"
-         width="80"
-         height="80"
-         x="8"
-         y="964.36218" />
-      <g
-         id="g3045"
-         style="display:inline"
-         transform="matrix(0.75749229,0,0,0.75749229,11.64037,968.00255)">
-        <g
-           transform="translate(0,80)"
-           id="layer2"
-           style="display:inline">
-          <path
-             d="m -52,-64 c -17.673112,0 -32,14.326888 -32,32 0,17.673112 14.326888,32 32,32 17.673112,0 32,-14.326888 32,-32 0,-17.673112 -14.326888,-32 -32,-32 z m 0,8 c 13.254836,0 24,10.745166 24,24 0,13.254832 -10.745164,24 -24,24 -13.254832,0 -24,-10.745168 -24,-24 0,-13.254834 10.745168,-24 24,-24 z m -0.25,4 c -2.063936,0 -3.75,1.686066 -3.75,3.75 l 0,16.5 c 0,2.063936 1.686064,3.75 3.75,3.75 0.08549,0.0054 0.1631,0 0.25,0 l 0.25,0 13.75,0 c 2.216,0 4,-1.784 4,-4 0,-2.216 -1.784,-4 -4,-4 l -10,0 0,-12.25 c 0,-2.063934 -1.686064,-3.75 -3.75,-3.75 l -0.5,0 z"
-             inkscape:connector-curvature="0"
-             transform="translate(100,0)"
-             clip-path="url(#clipPath3723)"
-             id="path3714"
-             style="opacity:0.2;color:#000000;fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3727);enable-background:accumulate" />
-          <path
-             d="m 48,-64 c -17.673112,0 -32,14.326888 -32,32 0,17.673112 14.326888,32 32,32 17.673112,0 32,-14.326888 32,-32 0,-17.673112 -14.326888,-32 -32,-32 z m 0,8 c 13.254836,0 24,10.745166 24,24 0,13.254832 -10.745164,24 -24,24 -13.254832,0 -24,-10.745168 -24,-24 0,-13.254834 10.745168,-24 24,-24 z m -0.25,4 c -2.063936,0 -3.75,1.686066 -3.75,3.75 l 0,16.5 c 0,2.063936 1.686064,3.75 3.75,3.75 0.08549,0.0054 0.1631,0 0.25,0 l 0.25,0 13.75,0 c 2.216,0 4,-1.784 4,-4 0,-2.216 -1.784,-4 -4,-4 l -10,0 0,-12.25 C 52,-50.313934 50.313936,-52 48.25,-52 l -0.5,0 z"
-             inkscape:connector-curvature="0"
-             id="path3716"
-             style="color:#000000;fill:url(#linearGradient3728);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        </g>
-      </g>
+<svg id="svg2982" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs2984">
+  <filter id="filter6279-2" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur6281-1" stdDeviation="0.8"/>
+  </filter>
+  <linearGradient id="linearGradient9181" y2="902.36" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="translate(0 -.0000078516)" y1="1052.4" x1="48">
+   <stop id="stop3189-4" style="stop-color:#c8c8c8" offset="0"/>
+   <stop id="stop3191-0-3" style="stop-color:#e6e6e6" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath3723">
+   <path id="path3725" style="opacity:.3;color:#000000;fill:#f00" d="m-100-80v96h96v-96h-96zm48 16c17.673 0 32 14.327 32 32s-14.327 32-32 32-32-14.327-32-32 14.327-32 32-32zm0 8c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-0.25 4h0.5c2.0639 0 3.75 1.6861 3.75 3.75v12.25h10c2.216 0 4 1.784 4 4s-1.784 4-4 4h-13.75-0.25c-0.0869 0-0.16451 0.0054-0.25 0-2.0639 0-3.75-1.6861-3.75-3.75v-16.5c0-2.0639 1.6861-3.75 3.75-3.75z"/>
+  </clipPath>
+  <filter id="filter3727" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3729" stdDeviation="0.96"/>
+  </filter>
+  <linearGradient id="linearGradient3728" y2="11" gradientUnits="userSpaceOnUse" x2="19" gradientTransform="matrix(0,4,-4,0,92,-76)" y1="11" x1="3">
+   <stop id="stop3657" style="stop-color:#ad0707" offset="0"/>
+   <stop id="stop3659" style="stop-color:#f75535" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata2987">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <g id="g6878">
+   <rect id="rect9283" ry="5" style="filter:url(#filter6279-2)" rx="5" transform="translate(0 -.0000078516)" height="80" width="80" y="964.36" x="8"/>
+   <rect id="rect9285" style="fill:url(#linearGradient9181)" rx="5" ry="5" height="80" width="80" y="964.36" x="8"/>
+   <g id="g3045" transform="matrix(.75749 0 0 .75749 11.64 968)">
+    <g id="layer2" transform="translate(0,80)">
+     <path id="path3714" style="opacity:.2;stroke-width:4;color:#000000;filter:url(#filter3727);stroke:#fff;fill:none" d="m-52-64c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32zm0 8c13.255 0 24 10.745 24 24s-10.745 24-24 24-24-10.745-24-24 10.745-24 24-24zm-0.25 4c-2.0639 0-3.75 1.6861-3.75 3.75v16.5c0 2.0639 1.6861 3.75 3.75 3.75 0.08549 0.0054 0.1631 0 0.25 0h0.25 13.75c2.216 0 4-1.784 4-4s-1.784-4-4-4h-10v-12.25c0-2.0639-1.6861-3.75-3.75-3.75h-0.5z" clip-path="url(#clipPath3723)" transform="translate(100)"/>
+     <path id="path3716" style="color:#000000;fill:url(#linearGradient3728)" d="m48-64c-17.673 0-32 14.327-32 32s14.327 32 32 32 32-14.327 32-32-14.327-32-32-32zm0 8c13.255 0 24 10.745 24 24s-10.745 24-24 24-24-10.745-24-24 10.745-24 24-24zm-0.25 4c-2.0639 0-3.75 1.6861-3.75 3.75v16.5c0 2.0639 1.6861 3.75 3.75 3.75 0.08549 0.0054 0.1631 0 0.25 0h0.25 13.75c2.216 0 4-1.784 4-4s-1.784-4-4-4h-10v-12.25c0-2.064-1.686-3.75-3.75-3.75h-0.5z"/>
     </g>
+   </g>
   </g>
+ </g>
 </svg>
