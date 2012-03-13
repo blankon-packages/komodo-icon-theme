@@ -10,7 +10,7 @@ Package: komodo-icon-theme
 Architecture: all
 Depends: libgtk3.0-0
 Description: Komodo Icon Theme for BlankOn Linux
- This icon theme provides a scalable group of icons to be used by GTK+ 2.x
- applications like GNOME 2, this distributed for BlankOn 8 Rote.
+ This icon theme provides a scalable group of icons to be used by GTK+ 3.x
+ applications like GNOME 3, this distributed for BlankOn 8 Rote.
 
 
