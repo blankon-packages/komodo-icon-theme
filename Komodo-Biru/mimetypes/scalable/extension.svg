@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg6307" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs6309">
+  <filter id="filter6279-2" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur6281-1" stdDeviation="0.8"/>
+  </filter>
+  <linearGradient id="linearGradient9181" x1="48" gradientUnits="userSpaceOnUse" y1="1052.4" gradientTransform="translate(0 -.0000078516)" x2="48" y2="902.36">
+   <stop id="stop3702-2" style="stop-color:#e6e6e6" offset="0"/>
+   <stop id="stop3704-9" style="stop-color:#f5f5f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3094-3" x1="48" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="translate(-2 956.36)" y1="64" y2="24">
+   <stop id="stop3319-0" style="stop-color:#6ab300" offset="0"/>
+   <stop id="stop3321-33" style="stop-color:#9dcf00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata6312">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <g id="g10144">
+   <g id="g6823">
+    <g id="g10138">
+     <g id="g6817">
+      <rect id="rect9283" style="filter:url(#filter6279-2)" transform="translate(0 -.0000078516)" rx="5" ry="5" height="80" width="80" y="964.36" x="8"/>
+      <rect id="rect9285" style="fill:url(#linearGradient9181)" rx="5" ry="5" height="80" width="80" y="964.36" x="8"/>
+      <path id="rect4096" style="color:#000000;fill:url(#linearGradient3094-3)" d="m46.5 973.36c-3.5899 0-6.5 2.0147-6.5 4.5 0.10443 0.9272 0.69059 2.098 1 2.5 1.5 2 1.5 3.25 1.125 4h-12.125c-2.216 0-4 1.784-4 4v10.125c0.75 0.375 2 0.375 4-1.125 0.40197-0.30941 1.5728-0.89557 2.5-1 2.4853 0 4.5 2.9102 4.5 6.5s-2.0147 6.5-4.5 6.5c-0.76276-0.013-1.9224-0.6951-2.5-1-2-1.5-3.25-1.5-4-1.125v13.125c0 2.216 1.784 4 4 4h16.125c0.375-0.75 0.375-2-1.125-4-0.30941-0.402-0.89557-1.5728-1-2.5 0-2.4853 2.9101-4.5 6.5-4.5s6.5 2.0147 6.5 4.5c-0.01292 0.7627-0.6951 1.9224-1 2.5-1.5 2-1.5 3.25-1.125 4h7.125c2.216 0 4-1.784 4-4v-11.125c0.75-0.375 2-0.375 4 1.125 0.57763 0.3049 1.7372 0.9871 2.5 1 2.4853 0 4.5-2.9102 4.5-6.5 0-3.5899-2.0147-6.5-4.5-6.5-0.9272 0.10443-2.098 0.69059-2.5 1-2 1.5-3.25 1.5-4 1.125v-12.125c0-2.216-1.784-4-4-4h-11.125c-0.375-0.75-0.375-2 1.125-4 0.3049-0.57763 0.98708-1.7372 1-2.5 0-2.4853-2.9101-4.5-6.5-4.5z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.3) rote; urgency=low
+
+  * Adding more icon status and actions
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 02 May 2012 19:26:26 +0700
+
 komodo-icon-theme (0.2.2) rote; urgency=low
 
   * Added symlynk.

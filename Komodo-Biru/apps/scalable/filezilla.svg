@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <filter id="filter6279" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur6281" stdDeviation="0.8"/>
+  </filter>
+  <linearGradient id="linearGradient5801" x1="48" gradientUnits="userSpaceOnUse" y1="1052.4" gradientTransform="translate(0 -.0000078516)" x2="48" y2="902.36">
+   <stop id="stop3189-9" style="stop-color:#a00000" offset="0"/>
+   <stop id="stop3191-7" style="stop-color:#ff0505" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3157-6" y2="138.66" gradientUnits="userSpaceOnUse" x2="48" y1="20.221" x1="48">
+   <stop id="stop3739-3-0" style="stop-color:#fdff98" offset="0"/>
+   <stop id="stop3741-0-6" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath2880-4">
+   <path id="path2882-0" style="fill:#fff" d="m12 6c-3.1577 0-5.7192 2.4087-5.9688 5.5 2.4695 0.017 4.4688 2.027 4.4688 4.5 0 2.484-2.016 4.5-4.5 4.5v7c2.484 0 4.5 2.016 4.5 4.5s-2.016 4.5-4.5 4.5v7c2.484 0 4.5 2.016 4.5 4.5s-2.016 4.5-4.5 4.5v7c2.484 0 4.5 2.016 4.5 4.5s-2.016 4.5-4.5 4.5v7c2.484-0.000004 4.5 2.016 4.5 4.5 0 2.4734-1.9993 4.4829-4.4688 4.5 0.2496 3.091 2.8111 5.5 5.9688 5.5 0-2.484 2.016-4.5 4.5-4.5s4.5 2.016 4.5 4.5h7c0-2.484 2.016-4.5 4.5-4.5s4.5 2.016 4.5 4.5h7c0-2.484 2.016-4.5 4.5-4.5s4.5 2.016 4.5 4.5h7c0-2.484 2.016-4.5 4.5-4.5s4.5 2.016 4.5 4.5h7c-0.000004-2.484 2.016-4.5 4.5-4.5 2.4522 0 4.4493 1.9661 4.5 4.4062 2.689-0.445 4.746-2.647 4.969-5.406-2.47-0.017-4.469-2.027-4.469-4.5 0-2.484 2.016-4.5 4.5-4.5v-7c-2.484 0.000001-4.5-2.016-4.5-4.5s2.016-4.5 4.5-4.5v-7c-2.484 0.000001-4.5-2.016-4.5-4.5s2.016-4.5 4.5-4.5v-7c-2.484 0.000001-4.5-2.016-4.5-4.5s2.016-4.5 4.5-4.5v-7c-2.484 0.000001-4.5-2.016-4.5-4.5 0-2.4734 1.9993-4.4829 4.4688-4.5-0.223-2.7593-2.28-4.9611-4.969-5.4062-0.051 2.4401-2.048 4.4062-4.5 4.4062-2.484 0-4.5-2.016-4.5-4.5h-7c0.000001 2.484-2.016 4.5-4.5 4.5s-4.5-2.016-4.5-4.5h-7c0.000001 2.484-2.016 4.5-4.5 4.5s-4.5-2.016-4.5-4.5h-7c0.000001 2.484-2.016 4.5-4.5 4.5s-4.5-2.016-4.5-4.5h-7c0.000001 2.484-2.016 4.5-4.5 4.5s-4.5-2.016-4.5-4.5z"/>
+  </clipPath>
+  <filter id="filter3794-94" height="1.384" width="1.384" y="-.192" x="-.192" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3796-546" stdDeviation="5.28"/>
+  </filter>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <g id="g6595" transform="translate(0,-1e-5)">
+   <rect id="rect9283" ry="5" style="filter:url(#filter6279)" rx="5" transform="translate(0 -.0000078516)" height="80" width="80" y="964.36" x="8"/>
+   <rect id="rect9285" style="fill:url(#linearGradient5801)" rx="5" ry="5" height="80" width="80" y="964.36" x="8"/>
+   <path id="path3307" style="fill:#fff" d="m32.56 978.66-10.54 46.34h8.5636l4.9746-20.741h23.377l-21.892 19.427 5.707 6.5144 2.9232-1.4932c5.528-2.8176 7.8464-1.1701 12.04-0.017 4.0802 1.1225 7.9159 2.3239 15.874-2.2235l-1.5803-8.0266c-8.685 6.1215-11.433 0.6599-17.618 0.443l17.708-14.9 1.922-7.89h-37.096l2.3879-9.5175h24.314l1.6674-7.9301h-32.733z"/>
+   <g id="layer4" transform="translate(0 956.36)">
+    <rect id="rect3171" style="opacity:.15;filter:url(#filter3794-94);stroke:#fff;stroke-linecap:round;stroke-width:.5;fill:url(#linearGradient3157-6)" clip-path="url(#clipPath2880-4)" rx="12" ry="12" height="66" width="66" y="15" x="15"/>
+   </g>
+  </g>
+ </g>
+</svg>
