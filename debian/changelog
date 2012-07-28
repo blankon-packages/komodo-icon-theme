@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.5) rote; urgency=low
+
+  * Added icon
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Jul 2012 13:25:27 +0000
+
 komodo-icon-theme (0.2.4) rote; urgency=low
 
   * Added symlink gnome*

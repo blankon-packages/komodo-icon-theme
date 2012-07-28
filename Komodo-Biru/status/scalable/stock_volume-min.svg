@@ -1,1 +1,26 @@
-audio-volume-low.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg4267" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4269">
+  <linearGradient id="linearGradient2996" y2="1005" gradientUnits="userSpaceOnUse" x2="80.611" gradientTransform="matrix(0 1 -1 0 1053 957.01)" y1="1005" x1="15.402">
+   <stop id="stop3802" style="stop-color:#eeeeec" offset="0"/>
+   <stop id="stop3804" style="stop-color:#eeeeec;stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata4272">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -956.36)">
+  <g id="g3775">
+   <path id="path3836" d="m26.781 28.031v6.281l-15.031 5.657v17.406l15.031 5.687v6.219h9.5v-41.25h-9.5zm25.531 6.594l-5.281 5.313c4.58 4.918 4.625 12.406 0.188 17.406l5.281 5.281c7.294-7.885 7.259-20.208-0.188-28z" style="fill:#bfbfbf" transform="translate(0 956.36)"/>
+   <path id="path3798" style="fill:url(#linearGradient2996)" d="m26.767 984.4v6.2728l-15.026 5.6642v17.414l15.026 5.6642v6.2259h9.5028v-41.241zm25.559 6.6004-5.2897 5.2897c4.58 4.9188 4.6249 12.414 0.1872 17.414l5.2897 5.2898c7.2942-7.8854 7.2594-20.202-0.1872-27.993z"/>
+   <path id="path3838" d="m70.906 16.062l-5.281 5.282c14.883 15.2 14.93 39.32 0.219 54.625l5.312 5.281c17.572-18.173 17.495-47.122-0.25-65.188zm-9.344 9.344l-5.343 5.344c9.682 10.031 9.806 25.723 0.281 35.844l5.281 5.312c12.391-12.995 12.33-33.602-0.219-46.5z" style="opacity:.3;fill:#bfbfbf" transform="translate(0 956.36)"/>
+  </g>
+ </g>
+</svg>
