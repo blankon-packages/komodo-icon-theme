@@ -1,8 +1,74 @@
+komodo-icon-theme (0.2.16) rote; urgency=low
+
+  * Added small 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 29 Jul 2012 11:35:27 +0000
+
+komodo-icon-theme (0.2.15) rote; urgency=low
+
+  * Added symlink again
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 21 May 2012 10:08:01 +0700
+
+komodo-icon-theme (0.2.14) rote; urgency=low
+
+  * Added libreoffice3-template.svg
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 18 May 2012 10:43:56 +0700
+
+komodo-icon-theme (0.2.13) rote; urgency=low
+
+  * Added symlink home
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 16 May 2012 11:22:51 +0700
+
+komodo-icon-theme (0.2.12) rote; urgency=low
+
+  * Add actions at komodo
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 23:56:31 +0700
+
+komodo-icon-theme (0.2.11) rote; urgency=low
+
+  * Added png for status/battrey*
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 23:05:08 +0700
+
+komodo-icon-theme (0.2.10) rote; urgency=low
+
+  * Added symlink icon network 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 21:21:54 +0700
+
+komodo-icon-theme (0.2.9) rote; urgency=low
+
+  * Added symlink used-desktop.pn to desktop.png #1071
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 15 May 2012 09:48:22 +0700
+
+komodo-icon-theme (0.2.8) rote; urgency=low
+
+  * Added symlink
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 13 May 2012 21:09:57 +0700
+
+komodo-icon-theme (0.2.7) rote; urgency=low
+
+  * changes pixel user-desktop coklat
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 10 May 2012 00:03:50 +0700
+
+komodo-icon-theme (0.2.6) rote; urgency=low
+
+  * Added user-desktop coklat
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 10 May 2012 22:09:55 +0700
+
 komodo-icon-theme (0.2.5) rote; urgency=low
 
-  * Added Icon
+  * Convert to png
 
- -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Jul 2012 13:25:27 +0000
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 10 May 2012 21:35:08 +0700
 
 komodo-icon-theme (0.2.4) rote; urgency=low
 
