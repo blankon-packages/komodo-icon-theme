@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2408" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <defs id="defs2410">
-  <linearGradient id="ButtonShadow" y2="7.0165" gradientUnits="userSpaceOnUse" x2="45.448" gradientTransform="scale(1.0059 .99417)" y1="92.54" x1="45.448">
+  <linearGradient id="ButtonShadow" x1="45.448" gradientUnits="userSpaceOnUse" y1="92.54" gradientTransform="scale(1.0059 .99417)" x2="45.448" y2="7.0165">
    <stop id="stop3750" offset="0"/>
    <stop id="stop3752" style="stop-opacity:.58824" offset="1"/>
   </linearGradient>
@@ -13,25 +13,25 @@
   <filter id="filter3174" color-interpolation-filters="sRGB">
    <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
   </filter>
-  <linearGradient id="linearGradient3613" y2="138.66" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="48" y1="20.221" x1="48"/>
+  <linearGradient id="linearGradient3613" x1="48" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="48" y1="20.221" y2="138.66"/>
   <clipPath id="clipPath3613">
    <rect id="rect3615" style="fill:#fff" rx="6" ry="6" height="84" width="84" y="6" x="6"/>
   </clipPath>
-  <linearGradient id="linearGradient3151" y2="5.9877" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="translate(-110)" y1="90" x1="48">
+  <linearGradient id="linearGradient3151" x1="48" gradientUnits="userSpaceOnUse" y1="90" gradientTransform="translate(-110)" x2="48" y2="5.9877">
    <stop id="stop3702" style="stop-color:#2276c5" offset="0"/>
    <stop id="stop3704" style="stop-color:#68baf4" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3153" y2="63.893" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="36.357" gradientTransform="translate(-110)" y1="6" x1="36.357"/>
+  <linearGradient id="linearGradient3153" x1="36.357" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" y1="6" gradientTransform="translate(-110)" x2="36.357" y2="63.893"/>
   <radialGradient id="radialGradient3155" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" cy="90.172" cx="48" gradientTransform="matrix(1.1573 0 0 .99591 -117.55 .19713)" r="42"/>
-  <linearGradient id="linearGradient3948" y2="5.9877" gradientUnits="userSpaceOnUse" x2="48" y1="90" x1="48">
+  <linearGradient id="linearGradient3948" y2="5.9877" gradientUnits="userSpaceOnUse" y1="90" x2="48" x1="48">
    <stop id="stop3189" style="stop-color:#dcdcdc" offset="0"/>
    <stop id="stop3191" style="stop-color:#f5f5f5" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3967" y2="64.215" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="44" y1="6" x1="44"/>
+  <linearGradient id="linearGradient3967" x1="44" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" x2="44" y1="6" y2="64.215"/>
   <radialGradient id="radialGradient3982" xlink:href="#linearGradient3737" gradientUnits="userSpaceOnUse" cy="72" cx="48" gradientTransform="matrix(1.1429 0 0 .95238 -6.8571 3.4286)" r="42"/>
-  <linearGradient id="linearGradient3989" y2="5.9877" xlink:href="#ButtonShadow" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="translate(0,1)" y1="90" x1="48"/>
-  <linearGradient id="linearGradient4001" y2="5.9877" xlink:href="#ButtonShadow" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="translate(-1,1)" y1="90.868" x1="48"/>
-  <filter id="filter4055" height="1.3882" width="1.3882" y="-.19411" x="-.19411" color-interpolation-filters="sRGB">
+  <linearGradient id="linearGradient3989" x1="48" xlink:href="#ButtonShadow" gradientUnits="userSpaceOnUse" y1="90" gradientTransform="translate(0,1)" x2="48" y2="5.9877"/>
+  <linearGradient id="linearGradient4001" x1="48" xlink:href="#ButtonShadow" gradientUnits="userSpaceOnUse" y1="90.868" gradientTransform="translate(-1,1)" x2="48" y2="5.9877"/>
+  <filter id="filter4055" width="1.3882" y="-.19411" x="-.19411" height="1.3882" color-interpolation-filters="sRGB">
    <feGaussianBlur id="feGaussianBlur4057" stdDeviation="5.3379019"/>
   </filter>
  </defs>
