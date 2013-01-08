@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.23+suroboyo) suroboyo; urgency=low
+
+  * add extension *.svg to apps symlink
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 08 Jan 2013 23:45:07 +0700
+
 komodo-icon-theme (0.2.22) suroboyo; urgency=low
 
   * added some icon apps
