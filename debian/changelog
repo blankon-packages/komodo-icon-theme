@@ -1,3 +1,10 @@
+komodo-icon-theme (0.2.23+suroboyo1) suroboyo; urgency=low
+
+  * Fix bug in icon system-log :
+    - Convert apps/scalable/logviewer.svg to apps/scalable/logviewer.png
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Mon, 16 Sep 2013 11:59:25 +0700
+
 komodo-icon-theme (0.2.23+suroboyo) suroboyo; urgency=low
 
   * add extension *.svg to apps symlink
