@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.24+suroboyo2) suroboyo; urgency=low
+
+  * refix bug in icon system-log back to 0.2.23+suroboyo1
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 01 Nov 2013 00:58:58 +0700
+
 komodo-icon-theme (0.2.24+suroboyo1) suroboyo; urgency=low
 
   * adding new revisi 
