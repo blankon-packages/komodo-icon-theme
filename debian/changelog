@@ -1,3 +1,12 @@
+komodo-icon-theme (0.2.24+suroboyo1) suroboyo; urgency=low
+
+  * adding new revisi 
+    - /apps = blankon-tutorial.svg, blankon-tweak.svg, gimp.svg, hydrogen.svg
+    - /devices = blankon-installer.svg
+    - /mimetypes = deb.svg
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 31 Oct 2013 21:32:35 +0700
+
 komodo-icon-theme (0.2.23+suroboyo1) suroboyo; urgency=low
 
   * Fix bug in icon system-log :

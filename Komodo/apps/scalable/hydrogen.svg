@@ -14,10 +14,22 @@
    height="96"
    id="svg11037"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="hydrogen.svg">
   <defs
      id="defs11039">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3782">
+      <stop
+         style="stop-color:#b4bace;stop-opacity:1;"
+         offset="0"
+         id="stop3784" />
+      <stop
+         style="stop-color:#b4bace;stop-opacity:0;"
+         offset="1"
+         id="stop3786" />
+    </linearGradient>
     <linearGradient
        y2="1046.1001"
        x2="47.999954"
@@ -39,16 +51,6 @@
          offset="1"
          id="stop3799" />
     </linearGradient>
-    <linearGradient
-       y2="1046.1001"
-       x2="47.999954"
-       y1="962.62189"
-       x1="47.999954"
-       gradientTransform="matrix(1.15,0,0,1.15,-7.1999462,-150.65292)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient11642"
-       xlink:href="#linearGradient3795"
-       inkscape:collect="always" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3009">
@@ -58,6 +60,15 @@
          style="opacity:0.15;fill:#ffffff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3782"
+       id="linearGradient3788"
+       x1="48"
+       y1="1004.3622"
+       x2="96"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -67,10 +78,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="38.522326"
+     inkscape:cx="32.272326"
      inkscape:cy="47.944869"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3167"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="754"
@@ -145,7 +156,7 @@
        y="958.36218"
        width="92"
        height="92"
-       style="fill:url(#linearGradient11642);fill-opacity:1"
+       style="fill:url(#linearGradient3788);fill-opacity:1"
        id="rect3867"
        rx="25"
        ry="25" />
@@ -160,7 +171,7 @@
          inkscape:connector-curvature="0"
          id="path3163"
          d="m -197,-110 22,0 0,26 16,0 0,-26 61,0 0,69 -61,0 0,-20 -16,0 0,20 -22,0 z"
-         style="fill:#343434;fill-opacity:1;stroke:none" />
+         style="fill:#314277;fill-opacity:1;stroke:none" />
       <path
          transform="translate(0,956.36218)"
          inkscape:connector-curvature="0"
