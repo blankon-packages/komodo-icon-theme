@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.26+suroboyo1) suroboyo; urgency=low
+
+  * icon status mono
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Tue, 05 Nov 2013 23:20:23 +0700
+
 komodo-icon-theme (0.2.25+suroboyo1) suroboyo; urgency=low
 
   * adding symlink icon xchm.svg
