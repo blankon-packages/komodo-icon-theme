@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.27+suroboyo1) suroboyo; urgency=low
+
+  * remove dir status/16,22
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 06 Nov 2013 15:33:46 +0700
+
 komodo-icon-theme (0.2.26+suroboyo1) suroboyo; urgency=low
 
   * icon status mono
