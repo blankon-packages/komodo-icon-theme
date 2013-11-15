@@ -1,3 +1,9 @@
+komodo-icon-theme (0.2.30+suroboyo1) suroboyo; urgency=low
+
+  * battery monochrome
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Fri, 15 Nov 2013 23:01:21 +0700
+
 komodo-icon-theme (0.2.29+suroboyo1) suroboyo; urgency=low
 
   * fix error no battery present icon status
