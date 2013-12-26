@@ -11,6 +11,6 @@
  </metadata>
  <g id="layer1">
   <path id="path3020" style="opacity:.15;fill:#fff" d="m8 1c-3.864 0-7 3.136-7 7s3.136 7 7 7 7-3.136 7-7-3.136-7-7-7zm0 1c3.312 0 6 2.688 6 6s-2.688 6-6 6-6-2.688-6-6 2.688-6 6-6z"/>
-  <path id="Symbol" class="error" style="fill:#d40000" d="m8 2c-3.312 0-6 2.688-6 6s2.688 6 6 6 6-2.688 6-6-2.688-6-6-6z"/>
+  <path id="Symbol" d="m8 2c-3.312 0-6 2.688-6 6s2.688 6 6 6 6-2.688 6-6-2.688-6-6-6z" style="fill:#d40000" class="error"/>
  </g>
 </svg>

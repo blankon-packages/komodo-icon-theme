@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <defs id="defs11039">
-  <linearGradient id="linearGradient11642" y2="1046.1" gradientUnits="userSpaceOnUse" y1="962.62" gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)" x2="48" x1="48">
+  <linearGradient id="linearGradient11642" x1="48" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)" y1="962.62" y2="1046.1">
    <stop id="stop3702" style="stop-color:#e1e1e1" offset="0"/>
    <stop id="stop3704" style="stop-color:#f5f5f5" offset="1"/>
   </linearGradient>
@@ -27,6 +27,6 @@
    <rect id="rect880" style="fill:#01a3ee" ry="0" height="10.414" width="10.414" y="1037.5" x="32.074"/>
    <rect id="rect882" style="fill:#feb800" ry="0" height="10.414" width="10.414" y="1037.5" x="44.132"/>
   </g>
-  <rect id="rect3003" style="opacity:.15;fill:#fff" transform="translate(98 3.8281e-7)" clip-path="url(#clipPath3009)" rx="25" ry="25" height="92" width="92" y="958.36" x="-96"/>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98 3.8281e-7)" width="92" y="958.36" x="-96" height="92"/>
  </g>
 </svg>

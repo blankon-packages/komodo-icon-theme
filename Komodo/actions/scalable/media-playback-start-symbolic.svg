@@ -10,6 +10,6 @@
   </rdf:RDF>
  </metadata>
  <g id="layer1">
-  <path id="Symbol" style="fill:#bebebe" transform="matrix(1.4104 0 0 1.4929 -4.7239 -9.9479)" d="m12.567 11.688l-6.3816 3.684v-7.3687l6.3816 3.6847z"/>
+  <path id="Symbol" d="m12.567 11.688l-6.3816 3.684v-7.3687l6.3816 3.6847z" style="fill:#bebebe" transform="matrix(1.4104 0 0 1.4929 -4.7239 -9.9479)"/>
  </g>
 </svg>

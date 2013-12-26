@@ -2,11 +2,11 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <defs id="defs4">
-  <linearGradient id="linearGradient3695" y2="-34" gradientUnits="userSpaceOnUse" x2="24" gradientTransform="translate(-8,16)" y1="-2" x1="24">
+  <linearGradient id="linearGradient3695" x1="24" gradientUnits="userSpaceOnUse" y1="-2" gradientTransform="translate(-8,16)" x2="24" y2="-34">
    <stop id="stop4083" style="stop-color:#aaa" offset="0"/>
    <stop id="stop4085" style="stop-color:#f0f0f0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3727" y2="14.14" gradientUnits="userSpaceOnUse" x2="19" y1="-18" x1="19">
+  <linearGradient id="linearGradient3727" y2="14.14" gradientUnits="userSpaceOnUse" y1="-18" x2="19" x1="19">
    <stop id="stop3715" style="stop-color:#fff" offset="0"/>
    <stop id="stop3717" style="stop-color:#fff;stop-opacity:0" offset="1"/>
   </linearGradient>
@@ -21,10 +21,10 @@
   </rdf:RDF>
  </metadata>
  <g id="layer1" transform="translate(0,74)">
-  <path id="path3791" style="opacity:0.08" d="m14 54c-3.8437 0-7 3.1563-7 7v24c0 3.8437 3.1563 7 7 7h8c3.8437 0 7-3.1563 7-7v-24c0-3.8437-3.1563-7-7-7h-8z" transform="translate(0,-74)"/>
-  <path id="path3766" style="opacity:.1" transform="translate(0,-74)" d="m14 55.031c-3.2831 0-5.9688 2.6857-5.9688 5.9688v24c0 3.2831 2.6857 5.9688 5.9688 5.9688h8c3.2831 0 5.9688-2.6857 5.9688-5.9688v-24c0-3.2831-2.6857-5.9688-5.9688-5.9688h-8z"/>
-  <path id="path3762" style="opacity:.15" transform="translate(0,-74)" d="m14 55.969c-2.7634 0-5.0312 2.2679-5.0312 5.0312v24c0 2.7634 2.2679 5.0312 5.0312 5.0312h8c2.7634 0 5.0312-2.2679 5.0312-5.0312v-24c0-2.7634-2.2679-5.0312-5.0312-5.0312h-8z"/>
-  <path id="rect3747" style="opacity:.3" transform="translate(0,-74)" d="m14 57c-2.216 0-4 1.784-4 4v24c0 2.216 1.784 4 4 4h8c2.216 0 4-1.784 4-4v-24c0-2.216-1.784-4-4-4h-8z"/>
+  <path id="path3791" style="opacity:.08" transform="translate(0,-74)" d="m14 54c-3.8437 0-7 3.1563-7 7v24c0 3.8437 3.1563 7 7 7h8c3.8437 0 7-3.1563 7-7v-24c0-3.8437-3.1563-7-7-7h-8z"/>
+  <path id="path3766" d="m14 55.031c-3.2831 0-5.9688 2.6857-5.9688 5.9688v24c0 3.2831 2.6857 5.9688 5.9688 5.9688h8c3.2831 0 5.9688-2.6857 5.9688-5.9688v-24c0-3.2831-2.6857-5.9688-5.9688-5.9688h-8z" style="opacity:.1" transform="translate(0,-74)"/>
+  <path id="path3762" d="m14 55.969c-2.7634 0-5.0312 2.2679-5.0312 5.0312v24c0 2.7634 2.2679 5.0312 5.0312 5.0312h8c2.7634 0 5.0312-2.2679 5.0312-5.0312v-24c0-2.7634-2.2679-5.0312-5.0312-5.0312h-8z" style="opacity:.15" transform="translate(0,-74)"/>
+  <path id="rect3747" d="m14 57c-2.216 0-4 1.784-4 4v24c0 2.216 1.784 4 4 4h8c2.216 0 4-1.784 4-4v-24c0-2.216-1.784-4-4-4h-8z" style="opacity:.3" transform="translate(0,-74)"/>
   <rect id="rect2903" style="opacity:.2;fill:#fff" rx="4" ry="4" height="80" width="16" y="-66" x="70"/>
   <rect id="rect2905" style="opacity:.2;fill:#fff" rx="4" ry="4" height="64" width="16" y="-50" x="50"/>
   <rect id="rect2907" style="opacity:.2;fill:#fff" rx="4" ry="4" height="48" width="16" y="-34" x="30"/>

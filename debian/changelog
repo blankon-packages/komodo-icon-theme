@@ -1,3 +1,10 @@
+komodo-icon-theme (0.2.31+suroboyo1) suroboyo; urgency=medium
+
+  * Added some icon apps by cho2
+    - list http://tempel.blankon.in/259159 
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 26 Dec 2013 15:29:19 +0700
+
 komodo-icon-theme (0.2.30+suroboyo1) suroboyo; urgency=low
 
   * battery monochrome

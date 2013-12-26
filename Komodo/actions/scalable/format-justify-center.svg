@@ -5,7 +5,7 @@
   <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
    <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
   </clipPath>
-  <linearGradient id="linearGradient4013" y2="23.729" gradientUnits="userSpaceOnUse" x2="49" gradientTransform="matrix(-1.1965 0 0 1 106.68 0)" y1="72.09" x1="49">
+  <linearGradient id="linearGradient4013" x1="49" gradientUnits="userSpaceOnUse" y1="72.09" gradientTransform="matrix(-1.1965 0 0 1 106.68 0)" x2="49" y2="23.729">
    <stop id="stop4083-64" style="stop-color:#aaa" offset="0"/>
    <stop id="stop4085-0" style="stop-color:#f0f0f0" offset="1"/>
   </linearGradient>
@@ -22,11 +22,11 @@
  <g id="layer1" transform="translate(0 -956.36)">
   <rect id="rect3867" style="opacity:.6" rx="25" ry="25" height="92" width="92" y="958.36" x="2"/>
   <g id="g3053" transform="translate(0 956.36)">
-   <path id="path4042" d="m30 25v6h36v-6h-36zm-6 10v6h48v-6h-48zm10 10v6h28v-6h-28zm6 11v5h-14v6h14v6l8-9-8-8zm8 8 8 9v-6h14v-6h-14v-5l-8 8z" style="opacity:.3"/>
-   <path id="path4011" d="m30 24v6h36v-6h-36zm-6 10v6h48v-6h-48zm10 10v6h28v-6h-28zm6 11v5h-14v6h14v6l8-9-8-8zm8 8 8 9v-6h14v-6h-14v-5l-8 8z" style="fill:url(#linearGradient4013)"/>
-   <path id="path4024" d="m30 24v1h36v-1h-36zm-6 10v1h48v-1h-48zm10 10v1h28v-1h-28zm6 11v1l7.5312 7.5312 0.469-0.531-8-8zm8 8 0.46875 0.53125l7.531-7.531v-1l-8 8zm-22-3v1h14v-1h-14zm30 0v1h14v-1h-14z" style="opacity:.75;fill:#fff"/>
-   <path id="path4033" d="m30 29v1h36v-1h-36zm-6 10v1h48v-1h-48zm10 10v1h28v-1h-28zm13.531 13.531-7.531 8.469v1l8-9-0.46875-0.46875zm0.469 0.469 8 9v-1l-7.531-8.469-0.469 0.469zm-22 2v1h14v-1h-14zm30 0v1h14v-1h-14z" style="opacity:.15"/>
+   <path id="path4042" style="opacity:.3" d="m30 25v6h36v-6h-36zm-6 10v6h48v-6h-48zm10 10v6h28v-6h-28zm6 11v5h-14v6h14v6l8-9-8-8zm8 8 8 9v-6h14v-6h-14v-5l-8 8z"/>
+   <path id="path4011" style="fill:url(#linearGradient4013)" d="m30 24v6h36v-6h-36zm-6 10v6h48v-6h-48zm10 10v6h28v-6h-28zm6 11v5h-14v6h14v6l8-9-8-8zm8 8 8 9v-6h14v-6h-14v-5l-8 8z"/>
+   <path id="path4024" style="opacity:.75;fill:#fff" d="m30 24v1h36v-1h-36zm-6 10v1h48v-1h-48zm10 10v1h28v-1h-28zm6 11v1l7.5312 7.5312 0.469-0.531-8-8zm8 8 0.46875 0.53125l7.531-7.531v-1l-8 8zm-22-3v1h14v-1h-14zm30 0v1h14v-1h-14z"/>
+   <path id="path4033" style="opacity:.15" d="m30 29v1h36v-1h-36zm-6 10v1h48v-1h-48zm10 10v1h28v-1h-28zm13.531 13.531-7.531 8.469v1l8-9-0.46875-0.46875zm0.469 0.469 8 9v-1l-7.531-8.469-0.469 0.469zm-22 2v1h14v-1h-14zm30 0v1h14v-1h-14z"/>
   </g>
-  <rect id="rect3003" style="opacity:.15;fill:#fff" transform="translate(98 -.0000026172)" clip-path="url(#clipPath3009)" rx="25" ry="25" height="92" width="92" y="958.36" x="-96"/>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98 -.0000026172)" width="92" y="958.36" x="-96" height="92"/>
  </g>
 </svg>

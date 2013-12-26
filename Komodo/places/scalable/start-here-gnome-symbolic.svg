@@ -11,7 +11,7 @@
   </rdf:RDF>
  </metadata>
  <g id="layer2" style="display:none" transform="translate(0,-6)">
-  <rect id="rect4898" style="fill:#333;display:inline" height="22" width="22" y="0" x="0"/>
+  <rect id="rect4898" style="display:inline;fill:#333" height="22" width="22" y="0" x="0"/>
  </g>
  <g id="layer3" style="display:none" transform="translate(0,-6)">
   <rect id="rect4126" style="fill:#efebe7" height="22" width="22" y="0" x="0"/>

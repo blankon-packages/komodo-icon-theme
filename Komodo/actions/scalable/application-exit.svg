@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="svg11037" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="96" width="96" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <defs id="defs11039">
-  <linearGradient id="linearGradient11642" y2="1046.1" gradientUnits="userSpaceOnUse" y1="962.62" gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)" x2="48" x1="48">
+  <linearGradient id="linearGradient11642" x1="48" gradientUnits="userSpaceOnUse" x2="48" gradientTransform="matrix(1.15 0 0 1.15 -7.1999 -150.65)" y1="962.62" y2="1046.1">
    <stop id="stop3259" style="stop-color:#a50000" offset="0"/>
    <stop id="stop3261" style="stop-color:#e73800" offset="1"/>
   </linearGradient>
   <clipPath id="clipPath3009" clipPathUnits="userSpaceOnUse">
    <path id="path3011" style="opacity:.15;fill:#fff" d="m-2 956.36h-96v33.562l96 25.687v-59.25z"/>
   </clipPath>
-  <linearGradient id="linearGradient3702" y2="48" gradientUnits="userSpaceOnUse" x2="69" gradientTransform="matrix(0 -1 1 0 -4.18e-7 96)" y1="48" x1="27">
+  <linearGradient id="linearGradient3702" x1="27" gradientUnits="userSpaceOnUse" y1="48" gradientTransform="matrix(0 -1 1 0 -4.18e-7 96)" x2="69" y2="48">
    <stop id="stop4083" style="stop-color:#dcdcdc" offset="0"/>
    <stop id="stop4085" style="stop-color:#f5f5f5" offset="1"/>
   </linearGradient>
@@ -31,6 +31,6 @@
    <path id="path3704" style="opacity:.75;fill:#fff" d="m36.344 27-9.3438 9.3438 0.5 0.5l8.844-8.844 11.656 11.656 11.656-11.656 8.844 8.844 0.5-0.5-9.344-9.344-11.656 11.656-11.656-11.656zm1.8125 21.5-11.156 11.156 0.5 0.5l11.156-11.156-0.5-0.5zm19.688 0-0.5 0.5l11.156 11.156 0.5-0.5-11.156-11.156z"/>
    <path id="path3714" style="opacity:.15" d="m27.5 35.844-0.5 0.5l11.156 11.156 0.5-0.5-11.156-11.156zm41 0-11.156 11.156l0.5 0.5 11.156-11.156-0.5-0.5zm-20.5 20.5-11.656 11.656l-8.8438-8.8438-0.5 0.5 9.344 9.344 11.656-11.656 11.656 11.656 9.344-9.344-0.5-0.5-8.844 8.844-11.656-11.656z"/>
   </g>
-  <rect id="rect3003" style="opacity:.15;fill:#fff" transform="translate(98)" clip-path="url(#clipPath3009)" rx="25" ry="25" height="92" width="92" y="958.36" x="-96"/>
+  <rect id="rect3003" style="opacity:.15;fill:#fff" clip-path="url(#clipPath3009)" rx="25" ry="25" transform="translate(98)" width="92" y="958.36" x="-96" height="92"/>
  </g>
 </svg>
